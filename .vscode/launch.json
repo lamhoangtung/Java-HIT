@@ -2,6 +2,26 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - bai9",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "bai9",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bai7",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "bai7",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - bai1",
             "request": "launch",
             "cwd": "${workspaceFolder}",
